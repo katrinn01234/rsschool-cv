@@ -15,3 +15,16 @@ I love learning new things, have experience in different spheres. I am very inte
 1. Git, Github.
 2. HTML and CSS basics.
 3. Figma.
+
+###**Courses:**
+Stage 0.
+HTML-Academy.
+
+###**Code Examples:**
+**Big trip**  
+   [https://github.com/katrinn01234/2322599-big-trip-2](https://github.com/katrinn01234/2322599-big-trip-2)
+
+###**My education:**
+
+1. Higher economic education (specialization)
+2. Higher legal education (bachelor's, master's degree)
